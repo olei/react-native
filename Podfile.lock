@@ -1,0 +1,44 @@
+PODS:
+  - React/Core (0.26.1)
+  - React/RCTActionSheet (0.26.1):
+    - React/Core
+  - React/RCTGeolocation (0.26.1):
+    - React/Core
+  - React/RCTImage (0.26.1):
+    - React/Core
+    - React/RCTNetwork
+  - React/RCTLinkingIOS (0.26.1):
+    - React/Core
+  - React/RCTNetwork (0.26.1):
+    - React/Core
+  - React/RCTSettings (0.26.1):
+    - React/Core
+  - React/RCTText (0.26.1):
+    - React/Core
+  - React/RCTVibration (0.26.1):
+    - React/Core
+  - React/RCTWebSocket (0.26.1):
+    - React/Core
+
+DEPENDENCIES:
+  - React/Core (from `./node_modules/react-native`)
+  - React/RCTActionSheet (from `./node_modules/react-native`)
+  - React/RCTGeolocation (from `./node_modules/react-native`)
+  - React/RCTImage (from `./node_modules/react-native`)
+  - React/RCTLinkingIOS (from `./node_modules/react-native`)
+  - React/RCTNetwork (from `./node_modules/react-native`)
+  - React/RCTSettings (from `./node_modules/react-native`)
+  - React/RCTText (from `./node_modules/react-native`)
+  - React/RCTVibration (from `./node_modules/react-native`)
+  - React/RCTWebSocket (from `./node_modules/react-native`)
+
+EXTERNAL SOURCES:
+  React:
+    :path: ./node_modules/react-native
+
+SPEC CHECKSUMS:
+  React: 9a7eb5f6e7146734fb50ab17f515087d302d5cca
+
+PODFILE CHECKSUM: 124c69df39adecb9053e45fe5f5573dabb202f39
+
+COCOAPODS: 1.2.0
